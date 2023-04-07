@@ -157,6 +157,3 @@ class _State extends State<MyApp>{
   }
 }
 
-class _showInputs{
-  
-}
