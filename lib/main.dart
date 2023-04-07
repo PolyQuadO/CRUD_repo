@@ -121,7 +121,7 @@ class _State extends State<MyApp>{
                         child: Column(
                           children: [
                             ElevatedButton(
-                            onPressed: () {_showInputs();
+                            onPressed: () {
                               }, child: Text('할일 추가'), )
                           ],
                         ),
@@ -156,4 +156,4 @@ class _State extends State<MyApp>{
     );
   }
 }
-
+//test
